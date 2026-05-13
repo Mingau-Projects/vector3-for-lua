@@ -51,5 +51,3 @@ This is a little library i made on lua that imitates the Vector3 object from Rob
 
  ***
 ***And many more things you can do***
-
-***Im still working on a matrix module too!***
